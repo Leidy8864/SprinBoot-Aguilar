@@ -1,0 +1,7 @@
+com\developer\SpringMySQL\controllers\MainController.class
+com\developer\SpringMySQL\SpringMySqlApplication.class
+com\developer\SpringMySQL\models\AppUsers.class
+com\developer\SpringMySQL\models\AppHospitalesRepo.class
+com\developer\SpringMySQL\models\AppHospitales.class
+com\developer\SpringMySQL\controllers\HospitalesController.class
+com\developer\SpringMySQL\models\AppUsersRepo.class
